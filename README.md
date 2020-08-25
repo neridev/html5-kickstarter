@@ -1,1 +1,1 @@
-# html5-kickstarter
+# HTML5 kickstarter
