@@ -1,0 +1,28 @@
+footer {
+  display: block;
+  font-family: 'Open Sans', sans-serif;
+  background: grey;
+  height: 75px;
+  width: 100%;
+  text-align: center;
+}
+
+@media screen and (min-width: 400px) {
+  /* Larger than mobile */
+}
+
+@media screen and (min-width: 560px) {
+  /* Larger than phablet (also point when grid becomes active) */
+}
+
+@media screen and (min-width: 720px) {
+  /* Larger than tablet */
+}
+
+@media screen and (min-width: 960px) {
+  /* Larger than desktop */
+}
+
+@media screen and (min-width: 1200px) {
+  /* Larger than Desktop HD */
+}

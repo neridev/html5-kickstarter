@@ -1,0 +1,13 @@
+.idea
+.vscode
+.env
+composer.lock
+composer.phar
+package-lock.json
+*.log
+.DS_Store*
+.fuse_*
+.phploy
+
+node_modules
+/vendor/
