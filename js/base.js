@@ -2,11 +2,11 @@
 
 	Frontend = {
 
-        initConsole: function () {
+        initConsole: () => {
             console.log('JS loaded!');
         },
 
-		initLoad: function () {
+		initLoad: () => {
 			$('body').addClass('loaded');
 			$('a').mouseup(function (e) {
 				var isCtrlPressed = e.ctrlKey;
